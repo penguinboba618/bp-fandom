@@ -1,0 +1,47 @@
+.underline{
+    text-decoration: underline;
+}        
+
+a{     
+color: rgb(60, 131, 237);
+}
+
+img{
+
+    width: 100%;
+}
+
+    body{
+
+
+
+
+background-color: rgb(0, 0, 0);
+
+
+
+
+color: rgb(253, 9, 115);
+
+
+
+    }
+
+.splash-the-second {
+
+size-adjust: inherit;
+
+}
+.splash {
+
+display: grid;
+grid-template-columns:.5fr 1fr .25fr;
+padding: 2rem;
+}
+
+.favorite-title{
+    width: 100%;
+display: flex;
+justify-content: center;
+text-decoration: underline;
+}
